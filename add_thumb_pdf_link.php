@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: サムネがぽん
-Description: ImageMagickで生成されたPDFのサムネイルをつけた形で投稿にPDFのリンクが設置できるプラグイン
+Description: ImageMagickで生成されたPDFのサムネイルをつけた形で、投稿にPDFのリンクが設置できるプラグイン
 Author: ah-kutsu
 Version: 1.0
 Author URI: http://ah-kutu.net
